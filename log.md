@@ -1,30 +1,44 @@
 # Day 1: Installing Python
-**Completion Date:** 
+**Completion Date:** June 1, 2019
 
 **Learned:** 
+* downloaded python
+* installed VS code
+* wrote my first script "Hello World!"
 
 # Day 2: Printing in Python
-**Completion Date:** 
+**Completion Date:**  June 2, 2019
 
 **Learned:** 
+* strings
+* inner statement references
 
 # Day 3: Operators
-**Completion Date:** 
-
-**Learned:** 
+**Completion Date:** June 3, 2019
+* numeric functionalities and doing simple math operations with Python
+* string functionalities and special characters, separating statements in lines and with/out quotes
+* printing new statements with 'r' in front of a statement
+* establishing relationships
+    '==' to indicate true or false statements and '!=' if they are/not false
+    for comparative relationships, learned < > <= and =>
+* connector statement 'and' 'or' 'not'
 
 # Day 4: Variables & Variable Types
-**Completion Date:** 
-
-**Learned:** 
+**Completion Date:** June 5, 2019
+* string replacement
+* variables in numeric operations
+* executing statements with variables that hold values
+* converting and overwriting variable types
 
 # Day 5: String Formatting
-**Completion Date:** 
-
-**Learned:** 
+**Completion Date:** June 5, 2019
+* modifying string characters - title, capitalize, upper, lowercase and swap
+* string replacement
+* adding characters or spaces to the right or left of a statement
+* printing a part of a statement
 
 # Day 6: Lists
-**Completion Date:** 
+**Completion Date:** June 5, 2019
 
 **Learned:** 
 
