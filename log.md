@@ -40,45 +40,87 @@
 # Day 6: Lists
 **Completion Date:** June 5, 2019
 
-**Learned:** 
+* sorting a list
+* duplicating a list
+* reversing order of a list
+* adding elements to a list through .extend
+* index position within a list
+* removing elements within a list
+* replacing elements within a list
+* printing a range of values
+* counting elements within a list
+* replacing an index within a list with something else
 
 # Day 7: Ranges
-**Completion Date:** 
+**Completion Date:** June 6, 2019
 
-**Learned:** 
+* getting output of ranges in order
+getting output of ranges in reverse order
+* using language
 
 # Day 8: Tuples
-**Completion Date:** 
+**Completion Date:** June 7, 2019
 
-**Learned:** 
 
 # Day 9: Index and Slicing
-**Completion Date:** 
+**Completion Date: June 8, 2019
 
-**Learned:** 
+* selecting parts of statements - examples:
+print(quotes[:]) > prints whole thing
+print(quotes[3:]) > starts at the 3rd
+print(quotes[:3]) > prints first 3
+print(quotes[::3]) > prints 1st and skips 3 from start to print 4th
+print(quotes[::-1]) > prints statements in reverse order
+print(quotes[1] [::-1]) > prints in reverse alphabet [1] indicates which quote to pick to reverse
+* create a new list with parts of other list, example
+exchange = quotes [2:5]
 
 # Day 10: If/Else
-**Completion Date:** 
+**Completion Date: June 8, 2019
 
-**Learned:** 
-
+* conditional statements start with if and then are followed by elif and end with else
+* there can be only one starting if and else statement and within them multiple linked statements linked with if and elif interchangeably
+*  There is no limit to the number of elif statements that can be added; however, there can only be a max of one if and else statement each time
+ 
 # Day 11: Augmented Assignments
-**Completion Date:** 
+**Completion Date:** June 9, 2019
 
-**Learned:** 
+* combining and joining elements with operations
+\+=  : Addition  
+\-=  : Subtraction  
+\*=  : Multiplication  
+\/=  : Division  
+\//= : Floor Division (will give you nearest whole number of division)
+\%=  : Remainder/Modulus  
+\**= : Exponent  
+\<<= : Left Shift  
+\>>= : Right Shift  
+\&=  : And  
+\^=  : Exclusive Or (XOR)  
+\|=  : Inclusive Or (OR)
+
+* The left and right shift give you the number that is equivalent to that number in number of spaces, for example:
+x = 4
+x >>= 1
+will print 8 [4...and add next 4 spaces]
+x = 4
+x >>= 2
+will print 16 [4...and add next 4 spaces is 8 and then do the same...next 8 spaces]
 
 # Day 12: For/While Loops
-**Completion Date:** 
+**Completion Date:** June 10, 2019
 
-**Learned:** 
+ * The for loop is used for iterating over a sequence, it stops when the number/output is greater than the terminating value.
+ * while is also used in loops, but it is different in that it will continue to execute while the condition is true. It does not iterate automatically, so an action must be completed in order to avoid an infinite loop.
 
 # Day 13: Continue/Break
-**Completion Date:** 
+**Completion Date: June 10, 2019
 
-**Learned:** 
+* The continue operation can continue the action if the condition is met.
+* The break operation sstops the program when condition is met. It can also be used to end the loop when condition is met.
 
 # Day 14: Module 1 Challenge
-**Completion Date:** 
+**Completion Date:** June 16, 2019
 
 **Learned:** 
 
