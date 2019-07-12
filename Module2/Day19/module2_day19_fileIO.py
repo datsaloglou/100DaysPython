@@ -17,7 +17,7 @@ print(os.getcwd())
 os.chdir('./Module2/Day19')
 
 # First we need to decrypt the "Zen of Python."
-zen = ""
+zen = ""l
 for letter in list(this.s):
     if letter in list(this.d.keys()):
         zen += this.d[letter]
