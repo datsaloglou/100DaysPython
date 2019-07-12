@@ -24,12 +24,10 @@ print(hello())
 # reduces the overall error risk by eliminating redundancies. Functions also provide improved readability by containing
 # the transformation logic into a single location.
 
-
 def even(a):
     while a % 2 != 0:
         a *= 2
     return a
-
 
 for x in [3, 35, 2, 107, 254]:
     if x == even(x):
@@ -42,7 +40,7 @@ for x in [3, 35, 2, 107, 254]:
 for x in [3, 35, 2, 107, 254]:
     if x % 2 == 0:
         print(f"{x} is an even number.")
-    else:
+    else: 
         y = x * 2
         print(f"{x} first becomes an even number when it's multiplied by 2 to become {y}.")
 
